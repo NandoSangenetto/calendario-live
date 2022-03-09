@@ -69,8 +69,8 @@ Itálico: _Data sujeita à alteração_.
 | 24/02 | Quinta  | Rafael Gomes (Gomex) | DevOps Tech Lead            |  🇺🇸  | DNSFilter           | [LinkedIn](https://www.linkedin.com/in/rbgomes/) |
 | 25/02 | Sexta   | Bruno Rocha          | Sr Software Engineer        |  🇵🇹  | RedHat              | [LinkedIn](https://www.linkedin.com/in/rochacbruno/) |
 | 28/02 | Segunda | Eduardo Chapola      | Recruiting Team Lead        |  🇺🇸  | X-Team              | [LinkedIn](https://www.linkedin.com/in/eduardochapola/) |
-| 01/02 | Terça   | Thiago Ghisi         | Senior Engineering Manager  |  🇺🇸  | Apple               | [LinkedIn](https://www.linkedin.com/in/thiagoghisi/) |
-| 02/02 | Quarta  | Francisco Souza      | Staff Software Engineer     |  🇺🇸  | Lyft                | [LinkedIn](https://www.linkedin.com/in/franciscosouza/) |
-| 03/02 | Quinta  | Carol Vilas Boas     | Head of Developer Relations |  🇧🇷  | Zup                 | [LinkedIn](https://www.linkedin.com/in/carolfvb/) |
-| 04/02 | Sexta   | Luis Leao            | Developer Evangelist        |  🇺🇸  | Twilio              | [LinkedIn](https://www.linkedin.com/in/luisleao/) |
+| 01/03 | Terça   | Thiago Ghisi         | Senior Engineering Manager  |  🇺🇸  | Apple               | [LinkedIn](https://www.linkedin.com/in/thiagoghisi/) |
+| 02/03 | Quarta  | Francisco Souza      | Staff Software Engineer     |  🇺🇸  | Lyft                | [LinkedIn](https://www.linkedin.com/in/franciscosouza/) |
+| 03/03 | Quinta  | Carol Vilas Boas     | Head of Developer Relations |  🇧🇷  | Zup                 | [LinkedIn](https://www.linkedin.com/in/carolfvb/) |
+| 04/03 | Sexta   | Luis Leao            | Developer Evangelist        |  🇺🇸  | Twilio              | [LinkedIn](https://www.linkedin.com/in/luisleao/) |
 
