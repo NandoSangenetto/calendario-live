@@ -17,7 +17,7 @@ Itálico: _Data sujeita à alteração_.
 | Data  | Dia      | Nome                   | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|------------------------|----------------------------|:----:|------------------|----------|
 | 14/03 | Segunda  | Jeferson (LINUXtips)   | Senior DevOps Engineer     | 🇳🇱   | LeasePlan        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
-| 15/03 | Terça    | _Em breve_             | _Em breve_                 | ---  | _Em breve_       | ---      |
+| 15/03 | Terça    | Loiane Groner          | VP of Software Development | 🇺🇸   | Citibank         | ---      |
 | 16/03 | _Quarta_ | _Leo Balter_           | _Senior Product Manager_   | 🇺🇸   | _Salesforce_     | _[LinkedIn](https://www.linkedin.com/in/leonardobalter/)_ |
 | 17/03 | Quinta   | Gabs Ferreira          | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
 | 18/03 | Sexta    | Filipe Silva           | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
