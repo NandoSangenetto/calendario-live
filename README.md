@@ -16,7 +16,7 @@ Itálico: _Data sujeita à alteração_.
 ### Semana 13/03
 | Data  | Dia      | Nome                   | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|------------------------|----------------------------|:----:|------------------|----------|
-| 14/03 | Segunda  | Jeferson (LINUXtips)   | Senior DevOps Engineer     | 🇳🇱   | LeasePlan        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
+| 14/03 | Segunda  | Jeferson.              | Founder.                   | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
 | 15/03 | Terça    | Loiane Groner          | VP of Software Development | 🇺🇸   | Citibank         | ---      |
 | 16/03 | _Quarta_ | _Leo Balter_           | _Senior Product Manager_   | 🇺🇸   | _Salesforce_     | _[LinkedIn](https://www.linkedin.com/in/leonardobalter/)_ |
 | 17/03 | Quinta   | Gabs Ferreira          | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
