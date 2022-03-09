@@ -9,16 +9,15 @@ Itálico: _Data sujeita à alteração_.
 ### Semana 06/03
 | Data  | Dia    | Nome               | Cargo                     | País | Empresa            | LinkedIn |
 |------:|--------|--------------------|---------------------------|:----:|--------------------|----------|
-| 09/03 | Quarta | Giovanni Bassi     | Chief Software Architect  | 🇧🇷   | Lambda3            | [LinkedIn](https://www.linkedin.com/in/giovannibassi/) |
 | 10/03 | Quinta | Luigui Delyer      | Sr Software Engineer      | 🇳🇱   | HBO Max            | [LinkedIn](https://www.linkedin.com/in/luiguild/) |
 | 11/03 | Sexta  | Geiseany Domiciano | Senior Frontend Developer | 🇸🇪   | Telenor            | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
 
 ### Semana 13/03
 | Data  | Dia      | Nome                   | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|------------------------|----------------------------|:----:|------------------|----------|
-| 14/03 | Segunda  | Jeferson.              | Founder.                   | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
-| 15/03 | Terça    | Loiane Groner          | VP of Software Development | 🇺🇸   | Citibank         | ---      |
-| 16/03 | _Quarta_ | _Leo Balter_           | _Senior Product Manager_   | 🇺🇸   | _Salesforce_     | _[LinkedIn](https://www.linkedin.com/in/leonardobalter/)_ |
+| 14/03 | Segunda  | Jeferson               | Founder                    | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
+| 15/03 | Terça    | Loiane Groner          | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
+| 16/03 | Quarta   | Leo Balter             | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
 | 17/03 | Quinta   | Gabs Ferreira          | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
 | 18/03 | Sexta    | Filipe Silva           | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
 
@@ -37,9 +36,6 @@ Itálico: _Data sujeita à alteração_.
 |--------:|-----------|-------------------------|----------------------------|:----:|----------------- |----------|
 | _28/03_ | _Segunda_ | _Isabella Silveira_     | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 29/03   | Terça     | Victor Novais           | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
-| 30/03   | Quarta    | ---                     | ---                        | 🇬🇧   | ---              | [LinkedIn]() |
-| 31/03   | Quinta    | ---                     | ---                        | 🇧🇷   | ---              | [LinkedIn]() |
-| 01/04   | Sexta     | ---                     | ---                        | 🇧🇷   | ---              | [LinkedIn]() |
 
 
 ## Já passou por aqui
@@ -73,4 +69,5 @@ Itálico: _Data sujeita à alteração_.
 | 02/03 | Quarta  | Francisco Souza      | Staff Software Engineer     |  🇺🇸  | Lyft                | [LinkedIn](https://www.linkedin.com/in/franciscosouza/) |
 | 03/03 | Quinta  | Carol Vilas Boas     | Head of Developer Relations |  🇧🇷  | Zup                 | [LinkedIn](https://www.linkedin.com/in/carolfvb/) |
 | 04/03 | Sexta   | Luis Leao            | Developer Evangelist        |  🇺🇸  | Twilio              | [LinkedIn](https://www.linkedin.com/in/luisleao/) |
+| 09/03 | Quarta  | Giovanni Bassi       | Chief Software Architect    | 🇧🇷   | Lambda3             | [LinkedIn](https://www.linkedin.com/in/giovannibassi/) |
 
