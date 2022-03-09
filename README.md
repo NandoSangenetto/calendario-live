@@ -4,7 +4,7 @@ Não conhece minha live? Cola lá e já deixa o follow: https://twitch.tv/NandoS
 
 ## Próximas semanas
 
-Itálico: _Data sujeuta à alteração_.
+Itálico: _Data sujeita à alteração_.
 
 ### Semana 06/03
 | Data  | Dia    | Nome               | Cargo                     | País | Empresa            | LinkedIn |
