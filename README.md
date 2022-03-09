@@ -28,7 +28,7 @@ Itálico: _Data sujeuta à alteração_.
 |------:|---------|-------------------------|----------------------------|:----:|------------------|----------|
 | 21/03 | Segunda | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷   | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 22/03 | Terça   | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
-| 23/03 | Quarta  | Diego Ballona           | Senior Engineering Manager | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
+| 23/03 | _Quarta_  | _Diego Ballona_           | _Senior Engineering Manager_ | 🇬🇧   | _Spotify_          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
 | 24/03 | Quinta  | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
 | 25/03 | Sexta   | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
 
