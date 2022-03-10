@@ -9,7 +9,6 @@ Itálico: _Data sujeita à alteração_.
 ### Semana 06/03
 | Data  | Dia    | Nome               | Cargo                     | País | Empresa            | LinkedIn |
 |------:|--------|--------------------|---------------------------|:----:|--------------------|----------|
-| 10/03 | Quinta | Luigui Delyer      | Sr Software Engineer      | 🇳🇱   | HBO Max            | [LinkedIn](https://www.linkedin.com/in/luiguild/) |
 | 11/03 | Sexta  | Geiseany Domiciano | Senior Frontend Developer | 🇸🇪   | Telenor            | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
 
 ### Semana 13/03
@@ -70,4 +69,5 @@ Itálico: _Data sujeita à alteração_.
 | 03/03 | Quinta  | Carol Vilas Boas     | Head of Developer Relations |  🇧🇷  | Zup                 | [LinkedIn](https://www.linkedin.com/in/carolfvb/) |
 | 04/03 | Sexta   | Luis Leao            | Developer Evangelist        |  🇺🇸  | Twilio              | [LinkedIn](https://www.linkedin.com/in/luisleao/) |
 | 09/03 | Quarta  | Giovanni Bassi       | Chief Software Architect    | 🇧🇷   | Lambda3             | [LinkedIn](https://www.linkedin.com/in/giovannibassi/) |
+| 10/03 | Quinta  | Luigui Delyer        | Sr Software Engineer        | 🇳🇱   | HBO Max             | [LinkedIn](https://www.linkedin.com/in/luiguild/) |
 
