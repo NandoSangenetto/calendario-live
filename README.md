@@ -2,37 +2,23 @@
 
 Não conhece minha live? Cola lá e já deixa o follow: https://twitch.tv/NandoSangenetto
 
-## Próximas semanas
+## Próximas lives
 
 Itálico: _Data sujeita à alteração_.
 
-### Semana 06/03
-| Data  | Dia    | Nome               | Cargo                     | País | Empresa            | LinkedIn |
-|------:|--------|--------------------|---------------------------|:----:|--------------------|----------|
-| 11/03 | Sexta  | Geiseany Domiciano | Senior Frontend Developer | 🇸🇪   | Telenor            | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
-
-### Semana 13/03
-| Data  | Dia      | Nome                   | Cargo                      | País | Empresa          | LinkedIn |
-|------:|----------|------------------------|----------------------------|:----:|------------------|----------|
-| 14/03 | Segunda  | Jeferson               | Founder                    | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
-| 15/03 | Terça    | Loiane Groner          | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
-| 16/03 | Quarta   | Leo Balter             | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
-| 17/03 | Quinta   | Gabs Ferreira          | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
-| 18/03 | Sexta    | Filipe Silva           | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
-
-
-### Semana 20/03
-| Data  | Dia     | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
-|------:|---------|-------------------------|----------------------------|:----:|------------------|----------|
-| 21/03 | Segunda | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷   | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
-| 22/03 | Terça   | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
+| Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
+|------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
+| 11/03 | Sexta    | Geiseany Domiciano      | Senior Frontend Developer  | 🇸🇪   | Telenor          | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
+| 14/03 | Segunda  | Jeferson                | Founder                    | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
+| 15/03 | Terça    | Loiane Groner           | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
+| 16/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
+| 17/03 | Quinta   | Gabs Ferreira           | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
+| 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
+| 21/03 | Segunda  | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷   | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
+| 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
 | 23/03 | _Quarta_  | _Diego Ballona_           | _Senior Engineering Manager_ | 🇬🇧   | _Spotify_          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
-| 24/03 | Quinta  | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
-| 25/03 | Sexta   | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
-
-### Semana 28/03
-| Data    | Dia       | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
-|--------:|-----------|-------------------------|----------------------------|:----:|----------------- |----------|
+| 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
+| 25/03 | Sexta    | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
 | _28/03_ | _Segunda_ | _Isabella Silveira_     | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 29/03   | Terça     | Victor Novais           | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
 
