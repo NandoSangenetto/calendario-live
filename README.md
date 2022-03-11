@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 11/03 | Sexta    | Geiseany Domiciano      | Senior Frontend Developer  | 🇸🇪   | Telenor          | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
 | 14/03 | Segunda  | Jeferson                | Founder                    | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
 | 15/03 | Terça    | Loiane Groner           | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
 | 16/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
@@ -56,4 +55,4 @@ Itálico: _Data sujeita à alteração_.
 | 04/03 | Sexta   | Luis Leao            | Developer Evangelist        |  🇺🇸  | Twilio              | [LinkedIn](https://www.linkedin.com/in/luisleao/) |
 | 09/03 | Quarta  | Giovanni Bassi       | Chief Software Architect    | 🇧🇷   | Lambda3             | [LinkedIn](https://www.linkedin.com/in/giovannibassi/) |
 | 10/03 | Quinta  | Luigui Delyer        | Sr Software Engineer        | 🇳🇱   | HBO Max             | [LinkedIn](https://www.linkedin.com/in/luiguild/) |
-
+| 11/03 | Sexta    | Geiseany Domiciano      | Senior Frontend Developer  | 🇸🇪   | Telenor          | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
