@@ -21,7 +21,7 @@ Itálico: _Data sujeita à alteração_.
 | _28/03_ | _Segunda_ | _Isabella Silveira_     | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 29/03   | Terça     | Victor Novais           | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
 | 01/04   | Sexta     | Rafael Bastos           | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
-| 12/04   | Sexta     | Fernanda Bernardo       | Tech Community Manager | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
+| 12/04   | Terça     | Fernanda Bernardo       | Tech Community Manager | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 
 ## Já passou por aqui
 | Data  | Dia     | Nome                 | Cargo                       | País | Empresa          | LinkedIn |
