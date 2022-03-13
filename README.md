@@ -15,7 +15,7 @@ Itálico: _Data sujeita à alteração_.
 | 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
 | 21/03 | Segunda  | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷   | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
-| 23/03 | _Quarta_   | _Leo Balter_              | _Senior Product Manager_     | 🇺🇸   | _Salesforce_       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
+| 23/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
 | 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
 | 25/03 | Sexta    | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
 | _28/03_ | _Segunda_ | _Isabella Silveira_     | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
