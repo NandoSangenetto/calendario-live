@@ -8,7 +8,7 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 15/03 | Terça    | Loiane Groner           | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
+
 | 16/03 | Quarta   | Flávio Mendes           | Software Engineering Team Lead | 🇮🇪 | Broadridge       | [LinkedIn](https://www.linkedin.com/in/flaviojmendes/) |
 | 17/03 | Quinta   | Gabs Ferreira           | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
 | 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
@@ -22,6 +22,7 @@ Itálico: _Data sujeita à alteração_.
 | 30/03   | Quarta    | Thales Carvalho         | Head of Product            | 🇧🇷   | ITuring | [LinkedIn](https://www.linkedin.com/in/thalesmcarvalho/) |
 | 31/03   | Quinta    | _MTST_         | Núcleo de Tecnologia            | 🇧🇷   | MTST | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
 | 01/04   | Sexta     | Rafael Bastos           | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
+| _04/04_ | _Segunda_ | _Isabella Silveira_     | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 12/04   | Terça     | Fernanda Bernardo       | Tech Community Manager | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 
 ## Já passou por aqui
@@ -59,3 +60,4 @@ Itálico: _Data sujeita à alteração_.
 | 10/03 | Quinta  | Luigui Delyer        | Sr Software Engineer        | 🇳🇱   | HBO Max             | [LinkedIn](https://www.linkedin.com/in/luiguild/) |
 | 11/03 | Sexta    | Geiseany Domiciano      | Senior Frontend Developer  | 🇸🇪   | Telenor          | [LinkedIn](https://www.linkedin.com/in/geisydomiciano/) |
 | 14/03 | Segunda  | Jeferson                | Founder                    | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
+| 15/03 | Terça    | Loiane Groner           | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
