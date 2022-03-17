@@ -10,7 +10,7 @@ Itálico: _Data sujeita à alteração_.
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
 | 17/03 | Quinta   | Gabs Ferreira           | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
 | 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
-| 21/03 | Segunda  | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
+| 21/03 | Segunda  |              | | | | [LinkedIn]() |
 | 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
 | 23/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
 | 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
@@ -23,6 +23,8 @@ Itálico: _Data sujeita à alteração_.
 | _04/04_ | _Segunda_ | _Isabella Silveira_  | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇪   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
 | 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
+| 07/04 | Quinta     | Sibelius Seraphini      | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
+| 11/04 | Segunda    | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 
 ## Já passou por aqui
