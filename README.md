@@ -21,10 +21,10 @@ Itálico: _Data sujeita à alteração_.
 | 31/03 | Quinta    | _MTST_                 | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
 | 01/04 | Sexta     | Rafael Bastos          | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
 | _04/04_ | _Segunda_ | _Isabella Silveira_  | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
-| 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇪   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
+| 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷  | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
 | 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
-| 07/04 | Quinta     | Sibelius Seraphini      | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
-| 11/04 | Segunda    | Pachi Parra             | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
+| 07/04 | Quinta     | Sibelius Seraphini    | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
+| 11/04 | Segunda    | Pachi Parra           | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 
 ## Já passou por aqui
