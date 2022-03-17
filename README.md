@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 17/03 | Quinta   | Gabs Ferreira           | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
 | 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
 | 21/03 | Segunda  |              | | | | [LinkedIn]() |
 | 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
@@ -66,3 +65,4 @@ Itálico: _Data sujeita à alteração_.
 | 14/03 | Segunda  | Jeferson                | Founder                    | 🇳🇱   | LINUXtips        | [LinkedIn](https://www.linkedin.com/in/jefersonfernando/) | 
 | 15/03 | Terça    | Loiane Groner           | VP of Software Development | 🇺🇸   | Citibank         | [LinkedIn](https://www.linkedin.com/in/loiane/) |
 | 16/03 | Quarta   | Flávio Mendes           | Software Engineering Team Lead | 🇮🇪 | Broadridge       | [LinkedIn](https://www.linkedin.com/in/flaviojmendes/) |
+| 17/03 | Quinta   | Gabs Ferreira           | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
