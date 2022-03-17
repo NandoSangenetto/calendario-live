@@ -26,6 +26,8 @@ Itálico: _Data sujeita à alteração_.
 | 07/04 | Quinta     | Sibelius Seraphini    | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 11/04 | Segunda    | Pachi Parra           | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
+| 12/04 | Terça     | Nathalya Nascimento | Sr. Tech Recruiter & Employer Branding Lead     | 🇺🇸  | Anywhere          | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
+
 
 ## Já passou por aqui
 | Data  | Dia     | Nome                 | Cargo                       | País | Empresa          | LinkedIn |
