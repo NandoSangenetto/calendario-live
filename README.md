@@ -14,7 +14,7 @@ Itálico: _Data sujeita à alteração_.
 | 23/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
 | 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
 | 25/03 | Sexta    | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
-| 28/03 | Segunda  | Mauricio Linhares       | Senior Software Engineer.  | 🇺🇸   | DigitalOcean     | [LinkedIn](https://www.linkedin.com/in/mauriciolinhares/) |
+| 28/03 | Segunda  | Mauricio Linhares       | Senior Software Engineer   | 🇺🇸   | DigitalOcean     | [LinkedIn](https://www.linkedin.com/in/mauriciolinhares/) |
 | 29/03 | Terça     | Victor Novais          | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
 | 30/03 | Quarta    | Thales Carvalho        | Head of Product            | 🇧🇷   | ITuring          | [LinkedIn](https://www.linkedin.com/in/thalesmcarvalho/) |
 | 31/03 | Quinta    | _MTST_                 | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
