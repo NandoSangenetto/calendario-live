@@ -24,7 +24,7 @@ Itálico: _Data sujeita à alteração_.
 | 11/04 | Segunda    | Pachi Parra           | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 | 13/04 | Quarta     | Nathalya Nascimento | Sr. Tech Recruiter & Employer Branding Lead     | 🇺🇸  | Anywhere          | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
-| 14/04 | Quarta     | _Kenneth Christiansen_ | _Principal Engineer_          | 🇩🇰   | _Intel_          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
+| 14/04 | Quinta     | _Kenneth Christiansen_ | _Principal Engineer_          | 🇩🇰   | _Intel_          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 15/04 | Sexta     | Guilherme Varandas  | Staff Mobile Dev              | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
 | 18/04 | Segunda     | _Samanta Cicilia_ | _Head of Engineering_          | 🇧🇷   | _Pagar.me_          | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
 
