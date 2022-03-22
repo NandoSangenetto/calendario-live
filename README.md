@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
 | 23/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
 | 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
 | 25/03 | Sexta    | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
@@ -69,3 +68,4 @@ Itálico: _Data sujeita à alteração_.
 | 16/03 | Quarta   | Flávio Mendes           | Software Engineering Team Lead | 🇮🇪 | Broadridge       | [LinkedIn](https://www.linkedin.com/in/flaviojmendes/) |
 | 17/03 | Quinta   | Gabs Ferreira           | Developer Evangelist       | 🇧🇷   | Alura            | [LinkedIn](https://www.linkedin.com/in/gabsferreira/) |
 | 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
+| 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
