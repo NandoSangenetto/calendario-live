@@ -17,14 +17,13 @@ Itálico: _Data sujeita à alteração_.
 | _04/04_ | _Segunda_ | _Isabella Silveira_  | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
 | 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
-| 07/04 | Quinta     | Sibelius Seraphini    | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 11/04 | Segunda    | Pachi Parra           | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 | 13/04 | Quarta     | Nathalya Nascimento | Sr. Tech Recruiter & Employer Branding Lead     | 🇺🇸  | Anywhere          | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
-| 14/04 | Quinta     | _Kenneth Christiansen_ | _Principal Engineer_          | 🇩🇰   | _Intel_          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
+| 14/04 | Quinta     | Sibelius Seraphini    | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 15/04 | Sexta     | Guilherme Varandas  | Staff Mobile Dev              | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
 | 18/04 | Segunda     | _Samanta Cicilia_ | _Head of Engineering_          | 🇧🇷   | _Pagar.me_          | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
-
+| 18/04 | Terca       | Kenneth Christiansen | Principal Engineer          | 🇩🇰   | Intel          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 
 
 ## Já passou por aqui
