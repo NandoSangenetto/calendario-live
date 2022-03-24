@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
 | 25/03 | Sexta    | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
 | 28/03 | Segunda  | Mauricio Linhares       | Senior Software Engineer   | 🇺🇸   | DigitalOcean     | [LinkedIn](https://www.linkedin.com/in/mauriciolinhares/) |
 | 29/03 | Terça     | Victor Novais          | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
@@ -69,3 +68,4 @@ Itálico: _Data sujeita à alteração_.
 | 18/03 | Sexta    | Filipe Silva            | Senior Engineering Manager | 🇺🇸   | Amazon Prime     | [LinkedIn](https://www.linkedin.com/in/felipesilva/) |
 | 22/03 | Terça    | Gabriela Moraes         | Developer Advocate         | 🇧🇷   | Zup              | [LinkedIn](https://www.linkedin.com/in/gabrielaomoraes/) |
 | 23/03 | Quarta   | Leo Balter              | Senior Product Manager     | 🇺🇸   | Salesforce       | [LinkedIn](https://www.linkedin.com/in/leonardobalter/) |
+| 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
