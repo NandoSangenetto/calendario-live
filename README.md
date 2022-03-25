@@ -12,7 +12,7 @@ Itálico: _Data sujeita à alteração_.
 | 28/03 | Segunda  | Mauricio Linhares       | Senior Software Engineer   | 🇺🇸   | DigitalOcean     | [LinkedIn](https://www.linkedin.com/in/mauriciolinhares/) |
 | 29/03 | Terça     | Victor Novais          | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
 | 30/03 | Quarta    | Thales Carvalho        | Head of Product            | 🇧🇷   | ITuring          | [LinkedIn](https://www.linkedin.com/in/thalesmcarvalho/) |
-| 31/03 | Quinta    | _MTST_                 | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
+| 31/03 | Quinta    | MTST                   | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
 | 01/04 | Sexta     | Rafael Bastos          | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
 | _04/04_ | _Segunda_ | _Isabella Silveira_  | _Web Engineer_             | 🇸🇪   | _Spotify_        | _[LinkedIn](https://www.linkedin.com/in/isabellasilveira/)_ |
 | 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
@@ -23,7 +23,7 @@ Itálico: _Data sujeita à alteração_.
 | 14/04 | Quinta     | Sibelius Seraphini    | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 15/04 | Sexta     | Guilherme Varandas  | Staff Mobile Dev              | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
 | 18/04 | Segunda     | _Samanta Cicilia_ | _Head of Engineering_          | 🇧🇷   | _Pagar.me_          | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
-| 18/04 | Terca       | Kenneth Christiansen | Principal Engineer          | 🇩🇰   | Intel          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
+| 19/04 | Terca       | Kenneth Christiansen | Principal Engineer          | 🇩🇰   | Intel          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 
 
 ## Já passou por aqui
