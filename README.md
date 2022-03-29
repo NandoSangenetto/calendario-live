@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 29/03 | Terça     | Victor Novais          | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
 | 30/03 | Quarta    | Thales Carvalho        | Head of Product            | 🇧🇷   | ITuring          | [LinkedIn](https://www.linkedin.com/in/thalesmcarvalho/) |
 | 31/03 | Quinta    | MTST                   | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
 | 01/04 | Sexta     | Rafael Bastos          | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
@@ -68,3 +67,5 @@ Itálico: _Data sujeita à alteração_.
 | 24/03 | Quinta   | Paulo Silveira          | CEO                        | 🇧🇷   | Grupo Alura      | [LinkedIn](https://www.linkedin.com/in/paulosilveira/) |
 | 25/03 | Sexta    | Letícia Silva (Dii Lua) | Developer Experience       | 🇧🇷   | Z1               | [LinkedIn](https://www.linkedin.com/in/leticiasilvar/) |
 | 28/03 | Segunda  | Mauricio Linhares       | Senior Software Engineer   | 🇺🇸   | DigitalOcean     | [LinkedIn](https://www.linkedin.com/in/mauriciolinhares/) |
+| 29/03 | Terça     | Victor Novais          | Product Leader             | 🇧🇷   | Stone Pagamentos | [LinkedIn](https://www.linkedin.com/in/victornovais/) |
+
