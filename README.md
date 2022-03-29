@@ -20,8 +20,8 @@ Itálico: _Data sujeita à alteração_.
 | 13/04 | Quarta     | Nathalya Nascimento | Sr. Tech Recruiter & Employer Branding Lead     | 🇺🇸  | Anywhere          | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
 | 14/04 | Quinta     | Sibelius Seraphini    | CTO     | 🇧🇷   | OpenPix          | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 15/04 | Sexta     | Guilherme Varandas  | Staff Mobile Dev              | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
-| 18/04 | Segunda     | _Samanta Cicilia_ | _Head of Engineering_          | 🇧🇷   | _Pagar.me_          | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
 | 19/04 | Terca       | Kenneth Christiansen | Principal Engineer          | 🇩🇰   | Intel          | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
+| 20/04 | Segunda     | Samanta Cicilia | Head of Engineering          | 🇧🇷   | Pagar.me          | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
 
 
 ## Já passou por aqui
