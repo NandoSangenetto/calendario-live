@@ -8,7 +8,7 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 01/04 | Sexta     | Rafael Bastos          | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
+| 04/04 | Segunda     | Rafael Bastos          | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
 | 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
 | 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
 | 11/04 | Segunda    | Pachi Parra           | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
