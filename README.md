@@ -15,6 +15,7 @@ Itálico: _Data sujeita à alteração_.
 | 13/04 | Quarta    | Nathalya Nascimento    | Sr. Tech Recruiter & Employer Branding Lead | 🇺🇸     | Anywhere | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
 | 14/04 | Quinta    | Sibelius Seraphini     | CTO     | 🇧🇷   | OpenPix   | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 15/04 | Sexta     | Guilherme Varandas     | Staff Mobile Dev           | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
+| 15/04 | Sexta     | Douglas Mesquita       | Co-Founder / YouTuber / CMO | 🇧🇷   | Rato Borrachudo / Uzmi Games / Escorrega o Preço  | [LinkedIn](https://www.linkedin.com/in/douglas-mesquita-882b83215/) |
 | 18/04 | Segunda   | Pachi Parra            | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 19/04 | Terca     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 20/04 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
