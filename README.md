@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
 | 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 | 13/04 | Quarta    | Nathalya Nascimento    | Sr. Tech Recruiter & Employer Branding Lead | 🇺🇸     | Anywhere | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
@@ -69,3 +68,4 @@ Itálico: _Data sujeita à alteração_.
 | 30/03 | Quarta    | Thales Carvalho        | Head of Product            | 🇧🇷   | ITuring          | [LinkedIn](https://www.linkedin.com/in/thalesmcarvalho/) |
 | 31/03 | Quinta    | MTST                   | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
 | 04/04 | Segunda     | Rafael Bastos        | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
+| 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
