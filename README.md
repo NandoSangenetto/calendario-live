@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
 | 12/04 | Terça     | Fernanda Bernardo      | Tech Community Manager     | 🇧🇷   | Cumbuca          | [LinkedIn](https://www.linkedin.com/in/fernandabernardo/) |
 | 13/04 | Quarta    | Nathalya Nascimento    | Sr. Tech Recruiter & Employer Branding Lead | 🇺🇸     | Anywhere | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
 | 14/04 | Quinta    | Sibelius Seraphini     | CTO     | 🇧🇷   | OpenPix   | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
@@ -17,7 +16,7 @@ Itálico: _Data sujeita à alteração_.
 | 18/04 | Segunda   | Pachi Parra            | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 20/04 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
-| 21/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta             | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
+| 21/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
 | 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
 
@@ -70,3 +69,4 @@ Itálico: _Data sujeita à alteração_.
 | 31/03 | Quinta    | MTST                   | Núcleo de Tecnologia       | 🇧🇷   | MTST             | [Twitch](https://www.twitch.tv/nucleo_de_tecnologia_mtst) |
 | 04/04 | Segunda     | Rafael Bastos        | Co-Founder & Game Producer | 🇧🇷   | Dumativa         | [LinkedIn](https://www.linkedin.com/in/arantesbastos/) |
 | 05/04 | Terça     | Eduardo Mendes         | Dunossauro                 | 🇧🇷   | Python           | [LinkedIn](https://www.linkedin.com/in/dunossauro/) |
+| 06/04 | Quarta    | Felipe Ribeiro         | Senior Software Engineer   | 🇺🇸   | Netflix          | [LinkedIn](https://www.linkedin.com/in/felipernb/) |
