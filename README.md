@@ -16,9 +16,12 @@ Itálico: _Data sujeita à alteração_.
 | 18/04 | Segunda   | Pachi Parra            | Associate Developer Relations Engineer | 🇧🇷  | New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 20/04 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
-| 21/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
+| 21/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |\
+| 22/04 | Quinta    |                        |        |   |            | [LinkedIn]() |
 | 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
+| 26/04 | Quinta    |                        |        |   |            | [LinkedIn]() |
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
+| 28/04 | Quinta    |                        |        |   |            | [LinkedIn]() |
 | 29/04 | Sexta     | Alexandre Duarte       | Staff Software Engineer    | 🇺🇸   | Google           | [LinkedIn](https://www.linkedin.com/in/alexandreduarte/) |
 
 ## Já passou por aqui
