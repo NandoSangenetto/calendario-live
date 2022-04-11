@@ -17,8 +17,9 @@ Itálico: _Data sujeita à alteração_.
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 20/04 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
 | 21/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
-| 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
+| 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
+| 29/04 | Sexta     | Alexandre Duarte       | Staff Software Engineer    | 🇺🇸   | Google           | [LinkedIn](https://www.linkedin.com/in/alexandreduarte/) |
 
 ## Já passou por aqui
 | Data  | Dia     | Nome                 | Cargo                       | País | Empresa          | LinkedIn |
