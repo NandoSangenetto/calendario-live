@@ -8,7 +8,7 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 15/04 | Sexta     | Guilherme Varandas     | Staff Mobile Dev           | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
+| 15/04 | Sexta     | Guilherme Varandas     | Staff Mobile Developer     | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
 | 18/04 | Segunda   | Pachi Parra            | Developer Advocate | 🇧🇷  | GitHub, ex-New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 20/04 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
