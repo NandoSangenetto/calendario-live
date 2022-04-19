@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 18/04 | Segunda   | Pachi Parra            | Developer Advocate | 🇧🇷  | GitHub, ex-New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 22/04 | Sexta     | Glaucia Lemos          | Cloud Advocate             | 🇧🇷   | Microsoft        | [LinkedIn](https://www.linkedin.com/in/glaucialemos/) |
 | 22/04 | Sexta (21h) | Douglas Mesquita       | Co-Founder / YouTuber / CMO | 🇧🇷   | Rato Borrachudo / Uzmi Games / Escorrega o Preço  | [LinkedIn](https://www.linkedin.com/in/douglas-mesquita-882b83215/) |
@@ -75,3 +74,4 @@ Itálico: _Data sujeita à alteração_.
 | 13/04 | Quarta    | Nathalya Nascimento    | Sr. Tech Recruiter & Employer Branding Lead | 🇺🇸     | Anywhere | [LinkedIn](https://www.linkedin.com/in/nnascimento/) |
 | 14/04 | Quinta    | Sibelius Seraphini     | CTO     | 🇧🇷   | OpenPix   | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 15/04 | Sexta     | Guilherme Varandas     | Staff Mobile Developer     | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
+| 18/04 | Segunda   | Pachi Parra            | Developer Advocate | 🇧🇷  | GitHub, ex-New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
