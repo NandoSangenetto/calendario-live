@@ -10,7 +10,6 @@ Itálico: _Data sujeita à alteração_.
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
 | 18/04 | Segunda   | Pachi Parra            | Developer Advocate | 🇧🇷  | GitHub, ex-New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
-| 20/04 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
 | 22/04 | Sexta     | Glaucia Lemos          | Cloud Advocate             | 🇧🇷   | Microsoft        | [LinkedIn](https://www.linkedin.com/in/glaucialemos/) |
 | 22/04 | Sexta (21h) | Douglas Mesquita       | Co-Founder / YouTuber / CMO | 🇧🇷   | Rato Borrachudo / Uzmi Games / Escorrega o Preço  | [LinkedIn](https://www.linkedin.com/in/douglas-mesquita-882b83215/) |
 | 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
@@ -18,6 +17,9 @@ Itálico: _Data sujeita à alteração_.
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
 | 28/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
 | 29/04 | Sexta     | Alexandre Duarte       | Staff Software Engineer    | 🇺🇸   | Google           | [LinkedIn](https://www.linkedin.com/in/alexandreduarte/) |
+| 04/05 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
+| 17/05 | Terça     | Davidson Fellipe       | Lead Software Engineer     | 🇺🇸   | Salesforce         | [LinkedIn](https://www.linkedin.com/in/fellipe/) |
+
 
 ## Já passou por aqui
 | Data  | Dia     | Nome                 | Cargo                       | País | Empresa          | LinkedIn |
