@@ -8,12 +8,10 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
 | 20/04 | Quarta    | Téo Calvo              | Head of Data               |  🇧🇷  | Gamers Club      | [LinkedIn](https://www.linkedin.com/in/teocalvo/) |
 | 22/04 | Sexta     | Glaucia Lemos          | Cloud Advocate             | 🇧🇷   | Microsoft        | [LinkedIn](https://www.linkedin.com/in/glaucialemos/) |
 | 22/04 | Sexta (21h) | Douglas Mesquita       | Co-Founder / YouTuber / CMO | 🇧🇷   | Rato Borrachudo / Uzmi Games / Escorrega o Preço  | [LinkedIn](https://www.linkedin.com/in/douglas-mesquita-882b83215/) |
 | 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
-| 26/04 | Terça     |                        |        |   |            | [LinkedIn]() |
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
 | 28/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
 | 29/04 | Sexta     | Alexandre Duarte       | Staff Software Engineer    | 🇺🇸   | Google           | [LinkedIn](https://www.linkedin.com/in/alexandreduarte/) |
@@ -76,3 +74,4 @@ Itálico: _Data sujeita à alteração_.
 | 14/04 | Quinta    | Sibelius Seraphini     | CTO     | 🇧🇷   | OpenPix   | [LinkedIn](https://www.linkedin.com/in/sibeliusseraphini) |
 | 15/04 | Sexta     | Guilherme Varandas     | Staff Mobile Developer     | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/guilhermevarandas/) |
 | 18/04 | Segunda   | Pachi Parra            | Developer Advocate | 🇧🇷  | GitHub, ex-New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) |
+| 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) |
