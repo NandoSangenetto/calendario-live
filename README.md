@@ -9,12 +9,14 @@ Itálico: _Data sujeita à alteração_.
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
 | 20/04 | Quarta    | Téo Calvo              | Head of Data               |  🇧🇷  | Gamers Club      | [LinkedIn](https://www.linkedin.com/in/teocalvo/) |
-| 22/04 | Sexta     | Glaucia Lemos          | Cloud Advocate             | 🇧🇷   | Microsoft        | [LinkedIn](https://www.linkedin.com/in/glaucialemos/) |
+| 22/04 | Sexta     | Glaucia Lemos          | Cloud Advocate             |  🇧🇷  | Microsoft        | [LinkedIn](https://www.linkedin.com/in/glaucialemos/) |
 | 22/04 | Sexta (21h) | Douglas Mesquita       | Co-Founder / YouTuber / CMO | 🇧🇷   | Rato Borrachudo / Uzmi Games / Escorrega o Preço  | [LinkedIn](https://www.linkedin.com/in/douglas-mesquita-882b83215/) |
 | 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
+| 26/04 | Terça     | Lucas Ferreira         | Sr Frontend Developer      | 🇨🇧   | Shopify          | [LinkedIn](https://www.linkedin.com/in/lucasfrosty/) |
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
 | 28/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) |
 | 29/04 | Sexta     | Alexandre Duarte       | Staff Software Engineer    | 🇺🇸   | Google           | [LinkedIn](https://www.linkedin.com/in/alexandreduarte/) |
+| 01/05 | Segunda   | Igor Topcin            | Principal Engineer         | 🇧🇷   | Microsoft        | [LinkedIn](https://www.linkedin.com/in/igortopcin/) |
 | 04/05 | Quarta    | Samanta Cicilia        | Head of Engineering        | 🇧🇷   | Pagar.me         | [LinkedIn](https://www.linkedin.com/in/samantacici/) |
 | 17/05 | Terça     | Davidson Fellipe       | Lead Software Engineer     | 🇺🇸   | Salesforce         | [LinkedIn](https://www.linkedin.com/in/fellipe/) |
 
