@@ -8,7 +8,6 @@ Itálico: _Data sujeita à alteração_.
 
 | Data  | Dia      | Nome                    | Cargo                      | País | Empresa          | LinkedIn |
 |------:|----------|-------------------------|----------------------------|:----:|------------------|----------|
-| 22/04 | Sexta (21h) | Douglas Mesquita       | Co-Founder / YouTuber / CMO | 🇧🇷   | Rato Borrachudo / Uzmi Games / Escorrega o Preço  | [LinkedIn](https://www.linkedin.com/in/douglas-mesquita-882b83215/) |
 | 25/04 | Segunda   | Diego Ballona          | Sr Engineering Manager     | 🇬🇧   | Spotify          | [LinkedIn](https://www.linkedin.com/in/dballona/) |
 | 26/04 | Terça     | Lucas Ferreira         | Sr Frontend Developer      | 🇨🇦   | Shopify          | [LinkedIn](https://www.linkedin.com/in/lucasfrosty/) |
 | 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) |
