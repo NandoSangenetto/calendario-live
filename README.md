@@ -28,7 +28,7 @@ Itálico: _Data sujeita à alteração_.
 | 01/02 | Segunda | Victor Fernandes     | Frontend Software Engineer  |  🇬🇧  | Sainsbury's         | [LinkedIn](https://www.linkedin.com/in/victorcfernandes/) |
 | 01/02 | Segunda | André Filipe Diniz   | Software Engineer           |  🇵🇹  | Aubay               | [LinkedIn](https://www.linkedin.com/in/andrefcdiniz/) |
 | 01/02 | Segunda | Daniel Gerep         | Software Engineer           |  🇺🇸  | HomeLight           | [LinkedIn](https://www.linkedin.com/in/daniel-gerep-bb5290202/) |
-| 02/02 | Terça   | Matheus Finatti      | Mobile Engineer             |  🇬🇧  | EpicGames           | [LinkedIn](https://www.linkedin.com/in/mfinatti/) |
+| 02/02 | Terça   | Matheus Finatti      | Mobile Engineer             |  🇬🇧  | Epic Games          | [LinkedIn](https://www.linkedin.com/in/mfinatti/) |
 | 02/02 | Terça   | Tadeu Zagallo        | Principal Engineer          |  🇸🇪  | Klarna              | [LinkedIn](https://www.linkedin.com/in/tadeuzagallo/) |
 | 03/02 | Quarta  | Nicolas Teodosio     | Python Engineer             |  🇩🇪  | byrd                | [LinkedIn](https://www.linkedin.com/in/nicolas-teodosio/) |
 | 08/02 | Terça   | Rafael Specht        | Software Engineer           |  🇺🇸  | Localyze            | [LinkedIn](https://www.linkedin.com/in/rsdasilva/) |
