@@ -2,6 +2,10 @@
 
 Não conhece minha live? Cola lá e já deixa o follow: https://twitch.tv/NandoSangenetto
 
+Todos os vídeos ficam gravados e são disponibilizados dias depois: https://youtube.com/c/NandoSangenetto
+
+Para saber mais sobre a live e entrar em contato: https://twitter.com/NandoSangenetto
+
 ## Próximas lives
 
 Itálico: _Data sujeita à alteração_.
