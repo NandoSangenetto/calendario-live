@@ -25,7 +25,7 @@ Itálico: _Data sujeita à alteração_.
 ## Já passou por aqui
 | Data  | Dia     | Nome                 | Cargo                       | País | Empresa             | LinkedIn | Video |
 |-------|---------|----------------------|-----------------------------|------|---------------------|----------|-------|
-| 27/01 | Quinta  | Adriano Pereira      | CEO                         |  🇯🇵  | AMPTEC              | [LinkedIn](https://www.linkedin.com/in/adriano-martins-pereira-1129793/) | [Video](https://www.youtube.com/c/NandoSangenetto) |
+| 27/01 | Quinta  | Adriano Pereira      | CEO                         |  🇯🇵  | AMPTEC              | [LinkedIn](https://www.linkedin.com/in/adriano-martins-pereira-1129793/) | [Video](https://www.youtube.com/watch?v=siYXEe7yrso&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
 | 29/01 | Sábado  | Brenndha Cabral      | Estudante Web               |  🇧🇷  | Trybe               | [LinkedIn](https://www.linkedin.com/in/brenndhacabral/) | [Video](https://www.youtube.com/watch?v=nAOJJ92fM3E&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
 | 29/01 | Sábado  | Leonardo Vogel       | Estudante Web               |  🇧🇷  | Trybe               | [LinkedIn](https://www.linkedin.com/in/leeovogel/) | [Video](https://www.youtube.com/watch?v=nAOJJ92fM3E&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
 | 01/02 | Segunda | Luigui Delyer        | Sr Software Engineer        |  🇳🇱  | HBO Max             | [LinkedIn](https://www.linkedin.com/in/luiguild/) | [Video](https://www.youtube.com/watch?v=V6cXTz_b_bI&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
