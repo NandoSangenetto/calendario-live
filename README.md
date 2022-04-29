@@ -79,5 +79,5 @@ Itálico: _Data sujeita à alteração_.
 | 18/04 | Segunda   | Pachi Parra            | Developer Advocate | 🇧🇷  | GitHub, ex-New Relic | [LinkedIn](https://www.linkedin.com/in/pachicodes/) | [Video](https://www.youtube.com/watch?v=IMpnNW_QHPs&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
 | 19/04 | Terça     | Kenneth Christiansen   | Principal Engineer         | 🇩🇰   | Intel            | [LinkedIn](https://www.linkedin.com/in/kenneth-rohde-christiansen/) | [Video](https://www.youtube.com/watch?v=AOR4US1DdNY&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
 | 20/04 | Quarta    | Téo Calvo              | Head of Data               |  🇧🇷  | Gamers Club      | [LinkedIn](https://www.linkedin.com/in/teocalvo/) | [Video](https://www.youtube.com/watch?v=zlDaHgNYt5A&list=PLC4KeB5Kxnn-GJMj4Z_kWzsq3xMy36R0J) |
-| 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) | [Video() |
+| 27/04 | Quarta    | Alê Borba              | Associate Principal        | 🇧🇷   | Google           | [LinkedIn](https://www.linkedin.com/in/ale-borba/) | [Video]() |
 | 28/04 | Quinta    | Fábio Miranda          | Frontend Engineer          | 🇺🇸   | Meta (Facebook)  | [LinkedIn](https://www.linkedin.com/in/fabiomirandacosta/) | [Video]() |
